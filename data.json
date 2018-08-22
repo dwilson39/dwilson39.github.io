@@ -1,0 +1,17 @@
+{
+  "username":"dwilson39",
+  "goals":[
+    {
+      "goal":"To learn Javascript and about developing for web applications",
+      "confidence":100
+    },
+    {
+      "goal":"To hopefully get a B in this course",
+      "confidence":83
+    },
+    {
+      "goal":"To learn new and exciting ways to write code",
+      "confidence":50
+    }
+  ]
+}
